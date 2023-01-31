@@ -1,0 +1,65 @@
+body{
+    background-image: url('compute-ea4c57a4.png');
+    margin: 0;
+}
+h2{
+    font-size: 50px;
+    color: white;
+    font-style: italic;
+}
+p{
+    color: rgba(255, 255, 255, 0.945);
+}
+#button{
+    font-style: italic;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgba(111, 228, 111, 0.877);
+}
+#div1{
+    width: 40%;
+    border-radius: 50%;
+    padding: 60px 50px;
+    position: fixed;
+    bottom: 0;
+}
+h1{
+    padding: 10px;
+    margin: 0;
+    color: aqua;
+    font-style: italic;
+    display: inline;
+}
+#div2{
+    display: block;
+    background-color: rgb(7, 40, 70);
+    color: aqua;
+}
+#buttongit{
+    size: 10px;
+    background-color:rgba(111, 228, 111, 0.877);
+    padding: 5px;
+    border: none;
+    border-radius: 40%;
+    color:rgb(243, 61, 16);
+    font-size: 20px;
+    font-style: italic;
+    cursor: pointer;
+}
+#buttongit:hover{
+    color:rgba(111, 228, 111, 0.877); 
+    transition: 0.5ms;
+    background-color:rgb(243, 61, 16)
+}
+#button:hover{
+    color:rgba(111, 228, 111, 0.877);
+    background-color:rgb(177, 4, 4);
+    transition: 0.5ms;
+
+}
